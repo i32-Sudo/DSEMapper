@@ -19,3 +19,5 @@ My DSE Exploit works by taking the SeValidateImageData & SeValidateImageHeader a
 		return Status;
 	}
 ```
+# Contact
+If you want an actually good Kernel Level Cheat that is UD My discord is -> `_ambitza`
